@@ -1,0 +1,66 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Reversi</title>
+</head>
+<body>
+
+<img id="Board_0" style="display:none" src="images/reversi/8x8_0.png">
+<img id="Board_1" style="display:none" src="images/reversi/8x8_1.png">
+<img id="Board_2" style="display:none" src="images/reversi/8x8_2.png">
+<img id="Board_3" style="display:none" src="images/reversi/8x8_3.png">
+<img id="Board_4" style="display:none" src="images/reversi/8x8_4.png">
+<img id="WhiteStone" style="display:none" src="images/reversi/wbig.png">
+<img id="BlackStone" style="display:none" src="images/reversi/bbig.png">
+
+<table style="margin:auto; font-family:sans-serif; font-size:14px" id="Table">
+<tr><td><a href="javascript:Dagaz.Controller.undo()" style="display:none" id="undo"><img src="../images/undo.png"/></a>
+Copyright (c) 1883 Lewis Waterman, John W. Mollett (<a target="_blank" href="https://en.wikipedia.org/wiki/Reversi">rules</a>)
+<a href="javascript:Dagaz.Controller.redo()" style="display:none" id="redo"><img src="../images/redo.png"/></a>
+<br><a href="javascript:Dagaz.Controller.newGame()">New Game</a>
+<a href="reversi-board.htm">no AI</a>
+<a href="javascript:Dagaz.Controller.sound()" id="sound">no Sound</a>
+</td></tr>
+<tr style="height:548px; vertical-align:top">
+<td id="CanvasCell" style="width:548px">
+<canvas id="Canvas" width="548" height="548" style="cursor:default">Broken canvas...</canvas>
+</td><td style="width:300px;">
+<div style="height:510px; overflow:auto" id="ScrollDiv">
+<img id="GlyphImage"><p id="HelpText"></p>
+<p id="GameSession"></p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="height:100px; width:500px; margin-left:auto; margin-right:auto">
+<table>
+<tr style="display:none" id="PieceInfo">
+<td><img id="PieceInfoImage"></td><td id="PieceInfoText"></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/seedrandom/2.3.10/seedrandom.min.js"></script>
+<script src="../common-scripts/dagaz.js"></script>
+<script src="../common-scripts/zrf-model.js"></script>
+<script src="../common-scripts/zobrist.js"></script>
+<script src="../common-scripts/common-setup-v2.js"></script>
+<script src="../common-scripts/2d-view-v2.js"></script>
+<script src="../common-scripts/move-list-v3.js"></script>
+<script src="../common-scripts/sound-manager-v2.js"></script>
+<script src="../common-scripts/session-manager.js"></script>
+<script src="../common-scripts/random-ai.js"></script>
+<script src="../common-scripts/maxmin-ai-v2.js"></script>
+<script src="scripts/reversi-extension.js"></script>
+<script src="scripts/reversi.js"></script>
+<script src="../common-scripts/app-v2.js"></script>
+
+<script src="../common-scripts/analytics.js"></script>
+
+</body>
+</html>

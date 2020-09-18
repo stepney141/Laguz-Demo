@@ -1,0 +1,716 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1898 1700" width="1898pt" height="1700pt" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" id="graph1" transform="scale(1) rotate(0) translate(4 1696)">
+<title>x3</title>
+<polygon fill="white" stroke="white" points="-4,5 -4,-1696 1895,-1696 1895,5 -4,5"/>
+<!-- Solar Power Plant (4401840) -->
+<g class="node" id="node1"><title>Solar Power Plant (4401840)</title>
+<ellipse fill="lightgrey" stroke="black" cx="1766" cy="-1674" rx="123.116" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1766" y="-1669.8">Solar Power Plant (4401840)</text>
+</g>
+<!-- Energy Cells (S 12&#45;16&#45;20) -->
+<g class="node" id="node27"><title>Energy Cells (S 12-16-20)</title>
+<ellipse fill="none" stroke="black" cx="1681" cy="-1602" rx="113.321" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1681" y="-1597.8">Energy Cells (S 12-16-20)</text>
+</g>
+<!-- Solar Power Plant (4401840)&#45;&gt;Energy Cells (S 12&#45;16&#45;20) -->
+<g class="edge" id="edge2"><title>Solar Power Plant (4401840)-&gt;Energy Cells (S 12-16-20)</title>
+<path fill="none" stroke="black" d="M 1745.42 -1656.05 C 1734.57 -1647.11 1721.08 -1636.01 1709.25 -1626.27"/>
+<polygon fill="black" stroke="black" points="1711.33,-1623.44 1701.39,-1619.79 1706.88,-1628.85 1711.33,-1623.44"/>
+</g>
+<!-- Ore Mine (324620) -->
+<g class="node" id="node2"><title>Ore Mine (324620)</title>
+<ellipse fill="lightgrey" stroke="black" cx="1442" cy="-1530" rx="86.1819" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1442" y="-1525.8">Ore Mine (324620)</text>
+</g>
+<!-- Ore (XL 50&#45;128&#45;206) -->
+<g class="node" id="node29"><title>Ore (XL 50-128-206)</title>
+<ellipse fill="none" stroke="black" cx="1229" cy="-1458" rx="94.5431" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1229" y="-1453.8">Ore (XL 50-128-206)</text>
+</g>
+<!-- Ore Mine (324620)&#45;&gt;Ore (XL 50&#45;128&#45;206) -->
+<g class="edge" id="edge6"><title>Ore Mine (324620)-&gt;Ore (XL 50-128-206)</title>
+<path fill="none" stroke="black" d="M 1397.87 -1514.5 C 1364.79 -1503.62 1319.31 -1488.68 1283.88 -1477.04"/>
+<polygon fill="black" stroke="black" points="1284.77,-1473.64 1274.18,-1473.85 1282.59,-1480.29 1284.77,-1473.64"/>
+</g>
+<!-- Silicon Mine (402528) -->
+<g class="node" id="node3"><title>Silicon Mine (402528)</title>
+<ellipse fill="lightgrey" stroke="black" cx="1681" cy="-1458" rx="99.0169" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1681" y="-1453.8">Silicon Mine (402528)</text>
+</g>
+<!-- Silicon Wafers (XL 232&#45;504&#45;776) -->
+<g class="node" id="node30"><title>Silicon Wafers (XL 232-504-776)</title>
+<ellipse fill="none" stroke="black" cx="1681" cy="-1386" rx="142.553" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1681" y="-1381.8">Silicon Wafers (XL 232-504-776)</text>
+</g>
+<!-- Silicon Mine (402528)&#45;&gt;Silicon Wafers (XL 232&#45;504&#45;776) -->
+<g class="edge" id="edge10"><title>Silicon Mine (402528)-&gt;Silicon Wafers (XL 232-504-776)</title>
+<path fill="none" stroke="black" d="M 1681 -1439.7 C 1681 -1431.98 1681 -1422.71 1681 -1414.11"/>
+<polygon fill="black" stroke="black" points="1684.5,-1414.1 1681,-1404.1 1677.5,-1414.1 1684.5,-1414.1"/>
+</g>
+<!-- Cattle Ranch (363572) -->
+<g class="node" id="node4"><title>Cattle Ranch (363572)</title>
+<ellipse fill="aqua" stroke="black" cx="1191" cy="-378" rx="99.001" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1191" y="-373.8">Cattle Ranch (363572)</text>
+</g>
+<!-- Argnu beef (S 42&#45;104&#45;166) -->
+<g class="node" id="node31"><title>Argnu beef (S 42-104-166)</title>
+<ellipse fill="none" stroke="black" cx="1208" cy="-306" rx="116.134" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1208" y="-301.8">Argnu beef (S 42-104-166)</text>
+</g>
+<!-- Cattle Ranch (363572)&#45;&gt;Argnu beef (S 42&#45;104&#45;166) -->
+<g class="edge" id="edge14"><title>Cattle Ranch (363572)-&gt;Argnu beef (S 42-104-166)</title>
+<path fill="none" stroke="black" d="M 1195.2 -359.697 C 1197.1 -351.898 1199.38 -342.509 1201.48 -333.829"/>
+<polygon fill="black" stroke="black" points="1204.89,-334.648 1203.85,-324.104 1198.08,-332.996 1204.89,-334.648"/>
+</g>
+<!-- Bio Gas Factory (324620) -->
+<g class="node" id="node5"><title>Bio Gas Factory (324620)</title>
+<ellipse fill="cornflowerblue" stroke="black" cx="1229" cy="-1242" rx="112.214" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1229" y="-1237.8">Bio Gas Factory (324620)</text>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494) -->
+<g class="node" id="node32"><title>BioGas (S 266-380-494)</title>
+<ellipse fill="none" stroke="black" cx="1275" cy="-1170" rx="106.272" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1275" y="-1165.8">BioGas (S 266-380-494)</text>
+</g>
+<!-- Bio Gas Factory (324620)&#45;&gt;BioGas (S 266&#45;380&#45;494) -->
+<g class="edge" id="edge20"><title>Bio Gas Factory (324620)-&gt;BioGas (S 266-380-494)</title>
+<path fill="none" stroke="black" d="M 1240.14 -1224.05 C 1245.54 -1215.84 1252.14 -1205.79 1258.14 -1196.66"/>
+<polygon fill="black" stroke="black" points="1261.08,-1198.55 1263.65,-1188.28 1255.23,-1194.71 1261.08,-1198.55"/>
+</g>
+<!-- Soyfarm (597300) -->
+<g class="node" id="node6"><title>Soyfarm (597300)</title>
+<ellipse fill="coral" stroke="black" cx="471" cy="-1098" rx="82.1574" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="471" y="-1093.8">Soyfarm (597300)</text>
+</g>
+<!-- Soja Beans (S 14&#45;28&#45;42) -->
+<g class="node" id="node34"><title>Soja Beans (S 14-28-42)</title>
+<ellipse fill="none" stroke="black" cx="468" cy="-1026" rx="106.364" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="468" y="-1021.8">Soja Beans (S 14-28-42)</text>
+</g>
+<!-- Soyfarm (597300)&#45;&gt;Soja Beans (S 14&#45;28&#45;42) -->
+<g class="edge" id="edge26"><title>Soyfarm (597300)-&gt;Soja Beans (S 14-28-42)</title>
+<path fill="none" stroke="black" d="M 470.258 -1079.7 C 469.928 -1071.98 469.531 -1062.71 469.162 -1054.11"/>
+<polygon fill="black" stroke="black" points="472.658,-1053.95 468.733,-1044.1 465.665,-1054.25 472.658,-1053.95"/>
+</g>
+<!-- Chelt Space Aquarium (337604) -->
+<g class="node" id="node7"><title>Chelt Space Aquarium (337604)</title>
+<ellipse fill="gold" stroke="black" cx="203" cy="-522" rx="136.221" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="203" y="-517.8">Chelt Space Aquarium (337604)</text>
+</g>
+<!-- Chelts Meat (S 50&#45;104&#45;158) -->
+<g class="node" id="node36"><title>Chelts Meat (S 50-104-158)</title>
+<ellipse fill="none" stroke="black" cx="592" cy="-450" rx="119.481" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="592" y="-445.8">Chelts Meat (S 50-104-158)</text>
+</g>
+<!-- Chelt Space Aquarium (337604)&#45;&gt;Chelts Meat (S 50&#45;104&#45;158) -->
+<g class="edge" id="edge34"><title>Chelt Space Aquarium (337604)-&gt;Chelts Meat (S 50-104-158)</title>
+<path fill="none" stroke="black" d="M 280.319 -507.087 C 346.179 -495.235 440.617 -478.241 508.254 -466.07"/>
+<polygon fill="black" stroke="black" points="509.229,-469.451 518.451,-464.235 507.989,-462.561 509.229,-469.451"/>
+</g>
+<!-- Flower Farm (402528) -->
+<g class="node" id="node8"><title>Flower Farm (402528)</title>
+<ellipse fill="olivedrab" stroke="black" cx="673" cy="-1098" rx="99.001" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="673" y="-1093.8">Flower Farm (402528)</text>
+</g>
+<!-- Sunrise Flowers (S 5&#45;20&#45;35) -->
+<g class="node" id="node39"><title>Sunrise Flowers (S 5-20-35)</title>
+<ellipse fill="none" stroke="black" cx="615" cy="-810" rx="120.586" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="615" y="-805.8">Sunrise Flowers (S 5-20-35)</text>
+</g>
+<!-- Flower Farm (402528)&#45;&gt;Sunrise Flowers (S 5&#45;20&#45;35) -->
+<g class="edge" id="edge44"><title>Flower Farm (402528)-&gt;Sunrise Flowers (S 5-20-35)</title>
+<path fill="none" stroke="black" d="M 669.546 -1079.97 C 659.857 -1032.19 632.364 -896.623 620.529 -838.266"/>
+<polygon fill="black" stroke="black" points="623.927,-837.411 618.51,-828.306 617.067,-838.803 623.927,-837.411"/>
+</g>
+<!-- Wheat Farm (467452) -->
+<g class="node" id="node9"><title>Wheat Farm (467452)</title>
+<ellipse fill="aqua" stroke="black" cx="1281" cy="-1098" rx="96.2731" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1281" y="-1093.8">Wheat Farm (467452)</text>
+</g>
+<!-- Delexian Wheat (S 10&#45;32&#45;54) -->
+<g class="node" id="node40"><title>Delexian Wheat (S 10-32-54)</title>
+<ellipse fill="none" stroke="black" cx="1293" cy="-1026" rx="125.301" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1293" y="-1021.8">Delexian Wheat (S 10-32-54)</text>
+</g>
+<!-- Wheat Farm (467452)&#45;&gt;Delexian Wheat (S 10&#45;32&#45;54) -->
+<g class="edge" id="edge50"><title>Wheat Farm (467452)-&gt;Delexian Wheat (S 10-32-54)</title>
+<path fill="none" stroke="black" d="M 1283.97 -1079.7 C 1285.29 -1071.98 1286.88 -1062.71 1288.35 -1054.11"/>
+<polygon fill="black" stroke="black" points="1291.83,-1054.55 1290.07,-1044.1 1284.93,-1053.37 1291.83,-1054.55"/>
+</g>
+<!-- Plankton Farm (415512) -->
+<g class="node" id="node10"><title>Plankton Farm (415512)</title>
+<ellipse fill="cornflowerblue" stroke="black" cx="1182" cy="-954" rx="105.475" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1182" y="-949.8">Plankton Farm (415512)</text>
+</g>
+<!-- Plankton (S 10&#45;20&#45;30) -->
+<g class="node" id="node41"><title>Plankton (S 10-20-30)</title>
+<ellipse fill="none" stroke="black" cx="1189" cy="-882" rx="97.0996" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1189" y="-877.8">Plankton (S 10-20-30)</text>
+</g>
+<!-- Plankton Farm (415512)&#45;&gt;Plankton (S 10&#45;20&#45;30) -->
+<g class="edge" id="edge54"><title>Plankton Farm (415512)-&gt;Plankton (S 10-20-30)</title>
+<path fill="none" stroke="black" d="M 1183.73 -935.697 C 1184.5 -927.983 1185.43 -918.712 1186.29 -910.112"/>
+<polygon fill="black" stroke="black" points="1189.78,-910.403 1187.29,-900.104 1182.81,-909.706 1189.78,-910.403"/>
+</g>
+<!-- Snail Ranch (441484) -->
+<g class="node" id="node11"><title>Snail Ranch (441484)</title>
+<ellipse fill="coral" stroke="black" cx="1640" cy="-522" rx="95.1816" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1640" y="-517.8">Snail Ranch (441484)</text>
+</g>
+<!-- Maja Snails (S 91&#45;156&#45;221) -->
+<g class="node" id="node42"><title>Maja Snails (S 91-156-221)</title>
+<ellipse fill="none" stroke="black" cx="1629" cy="-450" rx="118.373" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1629" y="-445.8">Maja Snails (S 91-156-221)</text>
+</g>
+<!-- Snail Ranch (441484)&#45;&gt;Maja Snails (S 91&#45;156&#45;221) -->
+<g class="edge" id="edge58"><title>Snail Ranch (441484)-&gt;Maja Snails (S 91-156-221)</title>
+<path fill="none" stroke="black" d="M 1637.28 -503.697 C 1636.07 -495.983 1634.61 -486.712 1633.26 -478.112"/>
+<polygon fill="black" stroke="black" points="1636.7,-477.44 1631.69,-468.104 1629.78,-478.526 1636.7,-477.44"/>
+</g>
+<!-- Scruffin Farm (415512) -->
+<g class="node" id="node12"><title>Scruffin Farm (415512)</title>
+<ellipse fill="gold" stroke="black" cx="915" cy="-522" rx="102.932" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="915" y="-517.8">Scruffin Farm (415512)</text>
+</g>
+<!-- Scruffin Fruits (S 7&#45;20&#45;33) -->
+<g class="node" id="node43"><title>Scruffin Fruits (S 7-20-33)</title>
+<ellipse fill="none" stroke="black" cx="921" cy="-450" rx="114.236" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="921" y="-445.8">Scruffin Fruits (S 7-20-33)</text>
+</g>
+<!-- Scruffin Farm (415512)&#45;&gt;Scruffin Fruits (S 7&#45;20&#45;33) -->
+<g class="edge" id="edge66"><title>Scruffin Farm (415512)-&gt;Scruffin Fruits (S 7-20-33)</title>
+<path fill="none" stroke="black" d="M 916.483 -503.697 C 917.144 -495.983 917.939 -486.712 918.676 -478.112"/>
+<polygon fill="black" stroke="black" points="922.167,-478.367 919.534,-468.104 915.193,-477.769 922.167,-478.367"/>
+</g>
+<!-- Dream farm (363572) -->
+<g class="node" id="node13"><title>Dream farm (363572)</title>
+<ellipse fill="olivedrab" stroke="black" cx="886" cy="-1098" rx="95.1499" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="886" y="-1093.8">Dream farm (363572)</text>
+</g>
+<!-- Swamp Plant (S 36&#45;156&#45;276) -->
+<g class="node" id="node44"><title>Swamp Plant (S 36-156-276)</title>
+<ellipse fill="none" stroke="black" cx="676" cy="-738" rx="123.429" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="676" y="-733.8">Swamp Plant (S 36-156-276)</text>
+</g>
+<!-- Dream farm (363572)&#45;&gt;Swamp Plant (S 36&#45;156&#45;276) -->
+<g class="edge" id="edge74"><title>Dream farm (363572)-&gt;Swamp Plant (S 36-156-276)</title>
+<path fill="none" stroke="black" d="M 857.396 -1080.63 C 821.337 -1057.61 764 -1012.04 764 -955 C 764 -955 764 -955 764 -881 C 764 -840.458 765.703 -826.244 744 -792 C 736.466 -780.112 725.292 -769.807 714.169 -761.525"/>
+<polygon fill="black" stroke="black" points="715.927,-758.483 705.734,-755.594 711.901,-764.209 715.927,-758.483"/>
+</g>
+<!-- Teladianium foundry (467452) -->
+<g class="node" id="node14"><title>Teladianium foundry (467452)</title>
+<ellipse fill="olivedrab" stroke="black" cx="997" cy="-1386" rx="130.468" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="997" y="-1381.8">Teladianium foundry (467452)</text>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180) -->
+<g class="node" id="node33"><title>Teladianium (M 132-156-180)</title>
+<ellipse fill="none" stroke="black" cx="991" cy="-1314" rx="129.359" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="991" y="-1309.8">Teladianium (M 132-156-180)</text>
+</g>
+<!-- Teladianium foundry (467452)&#45;&gt;Teladianium (M 132&#45;156&#45;180) -->
+<g class="edge" id="edge80"><title>Teladianium foundry (467452)-&gt;Teladianium (M 132-156-180)</title>
+<path fill="none" stroke="black" d="M 995.517 -1367.7 C 994.856 -1359.98 994.061 -1350.71 993.324 -1342.11"/>
+<polygon fill="black" stroke="black" points="996.807,-1341.77 992.466,-1332.1 989.833,-1342.37 996.807,-1341.77"/>
+</g>
+<!-- Cahoona Bakery (1038784) -->
+<g class="node" id="node15"><title>Cahoona Bakery (1038784)</title>
+<ellipse fill="aqua" stroke="black" cx="1175" cy="-234" rx="117.961" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1175" y="-229.8">Cahoona Bakery (1038784)</text>
+</g>
+<!-- Meatsteak Cahoonas (M 34&#45;72&#45;110) -->
+<g class="node" id="node45"><title>Meatsteak Cahoonas (M 34-72-110)</title>
+<ellipse fill="none" stroke="black" cx="1175" cy="-162" rx="150.931" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1175" y="-157.8">Meatsteak Cahoonas (M 34-72-110)</text>
+</g>
+<!-- Cahoona Bakery (1038784)&#45;&gt;Meatsteak Cahoonas (M 34&#45;72&#45;110) -->
+<g class="edge" id="edge84"><title>Cahoona Bakery (1038784)-&gt;Meatsteak Cahoonas (M 34-72-110)</title>
+<path fill="none" stroke="black" d="M 1175 -215.697 C 1175 -207.983 1175 -198.712 1175 -190.112"/>
+<polygon fill="black" stroke="black" points="1178.5,-190.104 1175,-180.104 1171.5,-190.104 1178.5,-190.104"/>
+</g>
+<!-- BoFu Chemical Lab (960872) -->
+<g class="node" id="node16"><title>BoFu Chemical Lab (960872)</title>
+<ellipse fill="cornflowerblue" stroke="black" cx="1257" cy="-810" rx="127.252" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1257" y="-805.8">BoFu Chemical Lab (960872)</text>
+</g>
+<!-- BoFu (M 190&#45;292&#45;394) -->
+<g class="node" id="node47"><title>BoFu (M 190-292-394)</title>
+<ellipse fill="none" stroke="black" cx="1414" cy="-234" rx="102.345" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1414" y="-229.8">BoFu (M 190-292-394)</text>
+</g>
+<!-- BoFu Chemical Lab (960872)&#45;&gt;BoFu (M 190&#45;292&#45;394) -->
+<g class="edge" id="edge92"><title>BoFu Chemical Lab (960872)-&gt;BoFu (M 190-292-394)</title>
+<path fill="none" stroke="black" d="M 1288.35 -792.457 C 1323.78 -771.993 1380.26 -733.687 1409 -684 C 1445.33 -621.193 1436 -595.555 1436 -523 C 1436 -523 1436 -523 1436 -377 C 1436 -336.74 1427.26 -290.808 1420.79 -262.355"/>
+<polygon fill="black" stroke="black" points="1424.14,-261.293 1418.45,-252.354 1417.32,-262.889 1424.14,-261.293"/>
+</g>
+<!-- Soyery (1077736) -->
+<g class="node" id="node17"><title>Soyery (1077736)</title>
+<ellipse fill="coral" stroke="black" cx="467" cy="-954" rx="81.0523" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="467" y="-949.8">Soyery (1077736)</text>
+</g>
+<!-- Soja Husk (S 335&#45;364&#45;393) -->
+<g class="node" id="node37"><title>Soja Husk (S 335-364-393)</title>
+<ellipse fill="none" stroke="black" cx="304" cy="-882" rx="117.271" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="304" y="-877.8">Soja Husk (S 335-364-393)</text>
+</g>
+<!-- Soyery (1077736)&#45;&gt;Soja Husk (S 335&#45;364&#45;393) -->
+<g class="edge" id="edge100"><title>Soyery (1077736)-&gt;Soja Husk (S 335-364-393)</title>
+<path fill="none" stroke="black" d="M 431.229 -937.638 C 407.712 -927.539 376.685 -914.214 351.158 -903.252"/>
+<polygon fill="black" stroke="black" points="352.241,-899.908 341.671,-899.178 349.479,-906.34 352.241,-899.908"/>
+</g>
+<!-- Rastar Refinery (1116692) -->
+<g class="node" id="node18"><title>Rastar Refinery (1116692)</title>
+<ellipse fill="gold" stroke="black" cx="773" cy="-378" rx="114.318" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="773" y="-373.8">Rastar Refinery (1116692)</text>
+</g>
+<!-- Rastar Oil (M 252&#45;484&#45;716) -->
+<g class="node" id="node48"><title>Rastar Oil (M 252-484-716)</title>
+<ellipse fill="none" stroke="black" cx="916" cy="-306" rx="120.278" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="916" y="-301.8">Rastar Oil (M 252-484-716)</text>
+</g>
+<!-- Rastar Refinery (1116692)&#45;&gt;Rastar Oil (M 252&#45;484&#45;716) -->
+<g class="edge" id="edge108"><title>Rastar Refinery (1116692)-&gt;Rastar Oil (M 252-484-716)</title>
+<path fill="none" stroke="black" d="M 806.167 -360.765 C 826.147 -350.984 851.797 -338.428 873.284 -327.91"/>
+<polygon fill="black" stroke="black" points="875.075,-330.93 882.518,-323.39 871.998,-324.643 875.075,-330.93"/>
+</g>
+<!-- Sun oil refinery (1064752) -->
+<g class="node" id="node19"><title>Sun oil refinery (1064752)</title>
+<ellipse fill="olivedrab" stroke="black" cx="622" cy="-666" rx="113.932" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="622" y="-661.8">Sun oil refinery (1064752)</text>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77) -->
+<g class="node" id="node35"><title>Nostrop Oil (M 67-72-77)</title>
+<ellipse fill="none" stroke="black" cx="602" cy="-594" rx="112.214" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="602" y="-589.8">Nostrop Oil (M 67-72-77)</text>
+</g>
+<!-- Sun oil refinery (1064752)&#45;&gt;Nostrop Oil (M 67&#45;72&#45;77) -->
+<g class="edge" id="edge116"><title>Sun oil refinery (1064752)-&gt;Nostrop Oil (M 67-72-77)</title>
+<path fill="none" stroke="black" d="M 617.056 -647.697 C 614.828 -639.898 612.145 -630.509 609.665 -621.829"/>
+<polygon fill="black" stroke="black" points="613,-620.758 606.887,-612.104 606.269,-622.681 613,-620.758"/>
+</g>
+<!-- Rimes Fact (921920) -->
+<g class="node" id="node20"><title>Rimes Fact (921920)</title>
+<ellipse fill="aqua" stroke="black" cx="1492" cy="-954" rx="92.3535" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1492" y="-949.8">Rimes Fact (921920)</text>
+</g>
+<!-- Cloth Rimes (S 152&#45;292&#45;432) -->
+<g class="node" id="node49"><title>Cloth Rimes (S 152-292-432)</title>
+<ellipse fill="none" stroke="black" cx="1508" cy="-882" rx="126.159" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1508" y="-877.8">Cloth Rimes (S 152-292-432)</text>
+</g>
+<!-- Rimes Fact (921920)&#45;&gt;Cloth Rimes (S 152&#45;292&#45;432) -->
+<g class="edge" id="edge124"><title>Rimes Fact (921920)-&gt;Cloth Rimes (S 152-292-432)</title>
+<path fill="none" stroke="black" d="M 1495.96 -935.697 C 1497.72 -927.983 1499.84 -918.712 1501.8 -910.112"/>
+<polygon fill="black" stroke="black" points="1505.27,-910.633 1504.09,-900.104 1498.45,-909.073 1505.27,-910.633"/>
+</g>
+<!-- Space Fuel Distillery (1960700) -->
+<g class="node" id="node21"><title>Space Fuel Distillery (1960700)</title>
+<ellipse fill="aqua" stroke="black" cx="1265" cy="-666" rx="135.311" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1265" y="-661.8">Space Fuel Distillery (1960700)</text>
+</g>
+<!-- Space Fuel (S 204&#45;72&#45;1252) -->
+<g class="node" id="node50"><title>Space Fuel (S 204-72-1252)</title>
+<ellipse fill="crimson" stroke="black" cx="1250" cy="-594" rx="120.281" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1250" y="-589.8">Space Fuel (S 204-72-1252)</text>
+</g>
+<!-- Space Fuel Distillery (1960700)&#45;&gt;Space Fuel (S 204&#45;72&#45;1252) -->
+<g class="edge" id="edge128"><title>Space Fuel Distillery (1960700)-&gt;Space Fuel (S 204-72-1252)</title>
+<path fill="none" stroke="black" d="M 1261.29 -647.697 C 1259.64 -639.983 1257.65 -630.712 1255.81 -622.112"/>
+<polygon fill="black" stroke="black" points="1259.18,-621.149 1253.67,-612.104 1252.34,-622.616 1259.18,-621.149"/>
+</g>
+<!-- Stott Mixery (1103708) -->
+<g class="node" id="node22"><title>Stott Mixery (1103708)</title>
+<ellipse fill="cornflowerblue" stroke="black" cx="933" cy="-810" rx="102.153" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="933" y="-805.8">Stott Mixery (1103708)</text>
+</g>
+<!-- Stott Spices (S 47&#45;72&#45;97) -->
+<g class="node" id="node46"><title>Stott Spices (S 47-72-97)</title>
+<ellipse fill="none" stroke="black" cx="927" cy="-738" rx="108.402" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="927" y="-733.8">Stott Spices (S 47-72-97)</text>
+</g>
+<!-- Stott Mixery (1103708)&#45;&gt;Stott Spices (S 47&#45;72&#45;97) -->
+<g class="edge" id="edge134"><title>Stott Mixery (1103708)-&gt;Stott Spices (S 47-72-97)</title>
+<path fill="none" stroke="black" d="M 931.517 -791.697 C 930.856 -783.983 930.061 -774.712 929.324 -766.112"/>
+<polygon fill="black" stroke="black" points="932.807,-765.769 928.466,-756.104 925.833,-766.367 932.807,-765.769"/>
+</g>
+<!-- Space Jewellery (1181616) -->
+<g class="node" id="node23"><title>Space Jewellery (1181616)</title>
+<ellipse fill="coral" stroke="black" cx="1650" cy="-234" rx="116.223" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1650" y="-229.8">Space Jewellery (1181616)</text>
+</g>
+<!-- Majaglit (S 9&#45;36&#45;63) -->
+<g class="node" id="node51"><title>Majaglit (S 9-36-63)</title>
+<ellipse fill="none" stroke="black" cx="1650" cy="-162" rx="90.4334" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1650" y="-157.8">Majaglit (S 9-36-63)</text>
+</g>
+<!-- Space Jewellery (1181616)&#45;&gt;Majaglit (S 9&#45;36&#45;63) -->
+<g class="edge" id="edge142"><title>Space Jewellery (1181616)-&gt;Majaglit (S 9-36-63)</title>
+<path fill="none" stroke="black" d="M 1650 -215.697 C 1650 -207.983 1650 -198.712 1650 -190.112"/>
+<polygon fill="black" stroke="black" points="1653.5,-190.104 1650,-180.104 1646.5,-190.104 1653.5,-190.104"/>
+</g>
+<!-- Massom Mill (999828) -->
+<g class="node" id="node24"><title>Massom Mill (999828)</title>
+<ellipse fill="gold" stroke="black" cx="535" cy="-378" rx="100.434" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="535" y="-373.8">Massom Mill (999828)</text>
+</g>
+<!-- Massom powder (S 17&#45;36&#45;55) -->
+<g class="node" id="node52"><title>Massom powder (S 17-36-55)</title>
+<ellipse fill="none" stroke="black" cx="561" cy="-306" rx="127.238" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="561" y="-301.8">Massom powder (S 17-36-55)</text>
+</g>
+<!-- Massom Mill (999828)&#45;&gt;Massom powder (S 17&#45;36&#45;55) -->
+<g class="edge" id="edge150"><title>Massom Mill (999828)-&gt;Massom powder (S 17-36-55)</title>
+<path fill="none" stroke="black" d="M 541.427 -359.697 C 544.355 -351.813 547.887 -342.304 551.14 -333.546"/>
+<polygon fill="black" stroke="black" points="554.446,-334.697 554.647,-324.104 547.884,-332.26 554.446,-334.697"/>
+</g>
+<!-- Bliss Place (1584144) -->
+<g class="node" id="node25"><title>Bliss Place (1584144)</title>
+<ellipse fill="olivedrab" stroke="black" cx="865" cy="-666" rx="95.9877" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="865" y="-661.8">Bliss Place (1584144)</text>
+</g>
+<!-- Space weed (S 903&#45;2912&#45;4921) -->
+<g class="node" id="node53"><title>Space weed (S 903-2912-4921)</title>
+<ellipse fill="crimson" stroke="black" cx="865" cy="-594" rx="133.075" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="865" y="-589.8">Space weed (S 903-2912-4921)</text>
+</g>
+<!-- Bliss Place (1584144)&#45;&gt;Space weed (S 903&#45;2912&#45;4921) -->
+<g class="edge" id="edge160"><title>Bliss Place (1584144)-&gt;Space weed (S 903-2912-4921)</title>
+<path fill="none" stroke="black" d="M 865 -647.697 C 865 -639.983 865 -630.712 865 -622.112"/>
+<polygon fill="black" stroke="black" points="868.5,-622.104 865,-612.104 861.5,-622.104 868.5,-622.104"/>
+</g>
+<!-- Crystal Fab (2973516) -->
+<g class="node" id="node26"><title>Crystal Fab (2973516)</title>
+<ellipse fill="lightgrey" stroke="black" cx="1175" cy="-90" rx="98.2058" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1175" y="-85.8">Crystal Fab (2973516)</text>
+</g>
+<!-- Crystals (M 1567&#45;1684&#45;1801) -->
+<g class="node" id="node28"><title>Crystals (M 1567-1684-1801)</title>
+<ellipse fill="none" stroke="black" cx="1513" cy="-18" rx="126.348" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="1513" y="-13.8">Crystals (M 1567-1684-1801)</text>
+</g>
+<!-- Crystal Fab (2973516)&#45;&gt;Crystals (M 1567&#45;1684&#45;1801) -->
+<g class="edge" id="edge166"><title>Crystal Fab (2973516)-&gt;Crystals (M 1567-1684-1801)</title>
+<path fill="none" stroke="black" d="M 1237.39 -76.0793 C 1293.04 -64.5537 1374.76 -47.629 1434.77 -35.2009"/>
+<polygon fill="black" stroke="black" points="1435.5,-38.6242 1444.58,-33.1688 1434.08,-31.7696 1435.5,-38.6242"/>
+</g>
+<!-- Energy Cells (S 12&#45;16&#45;20)&#45;&gt;Ore Mine (324620) -->
+<g class="edge" id="edge8"><title>Energy Cells (S 12-16-20)-&gt;Ore Mine (324620)</title>
+<path fill="none" stroke="black" d="M 1629.43 -1585.9 C 1591.23 -1574.71 1539.15 -1559.46 1499.59 -1547.87"/>
+<polygon fill="black" stroke="black" points="1500.39,-1544.46 1489.81,-1545 1498.43,-1551.17 1500.39,-1544.46"/>
+</g>
+<!-- Energy Cells (S 12&#45;16&#45;20)&#45;&gt;Silicon Mine (402528) -->
+<g class="edge" id="edge12"><title>Energy Cells (S 12-16-20)-&gt;Silicon Mine (402528)</title>
+<path fill="none" stroke="black" d="M 1681 -1583.87 C 1681 -1559.67 1681 -1515.21 1681 -1486.39"/>
+<polygon fill="black" stroke="black" points="1684.5,-1486.19 1681,-1476.19 1677.5,-1486.19 1684.5,-1486.19"/>
+</g>
+<!-- Crystals (M 1567&#45;1684&#45;1801)&#45;&gt;Solar Power Plant (4401840) -->
+<g class="edge" id="edge4"><title>Crystals (M 1567-1684-1801)-&gt;Solar Power Plant (4401840)</title>
+<path fill="none" stroke="black" d="M 1635.87 -22.2931 C 1732.88 -32.2405 1852 -64.17 1852 -161 C 1852 -1531 1852 -1531 1852 -1531 C 1852 -1577.96 1817.17 -1622.66 1791.84 -1648.96"/>
+<polygon fill="black" stroke="black" points="1789.22,-1646.63 1784.66,-1656.19 1794.19,-1651.56 1789.22,-1646.63"/>
+</g>
+<!-- Ore (XL 50&#45;128&#45;206)&#45;&gt;Bio Gas Factory (324620) -->
+<g class="edge" id="edge22"><title>Ore (XL 50-128-206)-&gt;Bio Gas Factory (324620)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1229 -1439.85 C 1229 -1402.83 1229 -1315.18 1229 -1270.39"/>
+<polygon fill="black" stroke="black" points="1232.5,-1270.23 1229,-1260.23 1225.5,-1270.23 1232.5,-1270.23"/>
+</g>
+<!-- Ore (XL 50&#45;128&#45;206)&#45;&gt;Teladianium foundry (467452) -->
+<g class="edge" id="edge82"><title>Ore (XL 50-128-206)-&gt;Teladianium foundry (467452)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1180.93 -1442.5 C 1145.48 -1431.8 1096.95 -1417.16 1058.64 -1405.6"/>
+<polygon fill="black" stroke="black" points="1059.22,-1402.12 1048.63,-1402.58 1057.2,-1408.82 1059.22,-1402.12"/>
+</g>
+<!-- Silicon Wafers (XL 232&#45;504&#45;776)&#45;&gt;Crystal Fab (2973516) -->
+<g class="edge" id="edge168"><title>Silicon Wafers (XL 232-504-776)-&gt;Crystal Fab (2973516)</title>
+<path fill="none" stroke="black" d="M 1713.88 -1368.33 C 1753.26 -1345.74 1814 -1301.44 1814 -1243 C 1814 -1243 1814 -1243 1814 -233 C 1814 -184.018 1791.6 -168.169 1749 -144 C 1672.02 -100.327 1427.39 -91.7027 1283.53 -90.5435"/>
+<polygon fill="black" stroke="black" points="1283.38,-87.0424 1273.35,-90.4725 1283.33,-94.0422 1283.38,-87.0424"/>
+</g>
+<!-- Argnu beef (S 42&#45;104&#45;166)&#45;&gt;Cahoona Bakery (1038784) -->
+<g class="edge" id="edge86"><title>Argnu beef (S 42-104-166)-&gt;Cahoona Bakery (1038784)</title>
+<path fill="none" stroke="black" d="M 1199.84 -287.697 C 1196.09 -279.728 1191.55 -270.1 1187.38 -261.264"/>
+<polygon fill="black" stroke="black" points="1190.49,-259.657 1183.06,-252.104 1184.16,-262.642 1190.49,-259.657"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;Soyfarm (597300) -->
+<g class="edge" id="edge28"><title>BioGas (S 266-380-494)-&gt;Soyfarm (597300)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1173.26 -1164.75 C 1035.1 -1158.21 780.651 -1143.47 565 -1116 C 556.782 -1114.95 548.192 -1113.67 539.688 -1112.28"/>
+<polygon fill="black" stroke="black" points="540.216,-1108.82 529.773,-1110.6 539.051,-1115.72 540.216,-1108.82"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;Flower Farm (402528) -->
+<g class="edge" id="edge46"><title>BioGas (S 266-380-494)-&gt;Flower Farm (402528)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1184.24 -1160.61 C 1085.03 -1151.13 921.452 -1134.58 781 -1116 C 772.156 -1114.83 762.919 -1113.52 753.732 -1112.15"/>
+<polygon fill="black" stroke="black" points="754.213,-1108.69 743.803,-1110.66 753.169,-1115.61 754.213,-1108.69"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;Wheat Farm (467452) -->
+<g class="edge" id="edge52"><title>BioGas (S 266-380-494)-&gt;Wheat Farm (467452)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1276.48 -1151.7 C 1277.14 -1143.98 1277.94 -1134.71 1278.68 -1126.11"/>
+<polygon fill="black" stroke="black" points="1282.17,-1126.37 1279.53,-1116.1 1275.19,-1125.77 1282.17,-1126.37"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;Snail Ranch (441484) -->
+<g class="edge" id="edge60"><title>BioGas (S 266-380-494)-&gt;Snail Ranch (441484)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1377.43 -1164.98 C 1440.98 -1159.33 1523.01 -1146.2 1590 -1116 C 1647.33 -1090.16 1700 -1089.89 1700 -1027 C 1700 -1027 1700 -1027 1700 -665 C 1700 -621.479 1675.79 -575.951 1658.13 -548.526"/>
+<polygon fill="black" stroke="black" points="1660.88,-546.344 1652.43,-539.949 1655.05,-550.216 1660.88,-546.344"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;Dream farm (363572) -->
+<g class="edge" id="edge76"><title>BioGas (S 266-380-494)-&gt;Dream farm (363572)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1205.01 -1156.4 C 1136.73 -1144.12 1033.13 -1125.48 962.659 -1112.79"/>
+<polygon fill="black" stroke="black" points="962.972,-1109.29 952.51,-1110.97 961.732,-1116.18 962.972,-1109.29"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;BoFu Chemical Lab (960872) -->
+<g class="edge" id="edge94"><title>BioGas (S 266-380-494)-&gt;BoFu Chemical Lab (960872)</title>
+<path fill="none" stroke="black" d="M 1350.08 -1157.16 C 1462.62 -1137.27 1662 -1092.75 1662 -1027 C 1662 -1027 1662 -1027 1662 -953 C 1662 -912.553 1672.64 -891.525 1643 -864 C 1607.22 -830.767 1489 -818.162 1392.73 -813.488"/>
+<polygon fill="black" stroke="black" points="1392.74,-809.985 1382.59,-813.021 1392.42,-816.978 1392.74,-809.985"/>
+</g>
+<!-- BioGas (S 266&#45;380&#45;494)&#45;&gt;Space Jewellery (1181616) -->
+<g class="edge" id="edge146"><title>BioGas (S 266-380-494)-&gt;Space Jewellery (1181616)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1371.58 -1162.44 C 1465.16 -1154.8 1599.56 -1140.05 1646 -1116 C 1776.84 -1048.23 1776 -958.355 1776 -811 C 1776 -811 1776 -811 1776 -377 C 1776 -323.756 1725.82 -281.163 1688.8 -256.982"/>
+<polygon fill="black" stroke="black" points="1690.5,-253.918 1680.18,-251.525 1686.76,-259.832 1690.5,-253.918"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Bio Gas Factory (324620) -->
+<g class="edge" id="edge24"><title>Teladianium (M 132-156-180)-&gt;Bio Gas Factory (324620)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1043.52 -1297.55 C 1080.22 -1286.76 1129.33 -1272.32 1167.79 -1261"/>
+<polygon fill="black" stroke="black" points="1169.23,-1264.23 1177.84,-1258.05 1167.25,-1257.51 1169.23,-1264.23"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Soyfarm (597300) -->
+<g class="edge" id="edge32"><title>Teladianium (M 132-156-180)-&gt;Soyfarm (597300)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 949.247 -1296.88 C 922.526 -1286.5 887.152 -1272.63 856 -1260 C 732.463 -1209.93 587.632 -1148.67 515.927 -1118.16"/>
+<polygon fill="black" stroke="black" points="517.291,-1114.94 506.719,-1114.25 514.55,-1121.38 517.291,-1114.94"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Chelt Space Aquarium (337604) -->
+<g class="edge" id="edge42"><title>Teladianium (M 132-156-180)-&gt;Chelt Space Aquarium (337604)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 868.987 -1308.04 C 604.103 -1295.64 0 -1257.85 0 -1171 C 0 -1171 0 -1171 0 -881 C 0 -738.72 122.83 -601.172 177.4 -547.085"/>
+<polygon fill="black" stroke="black" points="179.926,-549.51 184.627,-540.015 175.031,-544.506 179.926,-549.51"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Flower Farm (402528) -->
+<g class="edge" id="edge48"><title>Teladianium (M 132-156-180)-&gt;Flower Farm (402528)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 966.047 -1296.21 C 909.272 -1258 770.41 -1164.55 706.362 -1121.45"/>
+<polygon fill="black" stroke="black" points="708.087,-1118.39 697.837,-1115.71 704.179,-1124.2 708.087,-1118.39"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Snail Ranch (441484) -->
+<g class="edge" id="edge64"><title>Teladianium (M 132-156-180)-&gt;Snail Ranch (441484)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1100.56 -1304.4 C 1316.43 -1285.99 1776 -1238.82 1776 -1171 C 1776 -1171 1776 -1171 1776 -1025 C 1776 -928.401 1738 -907.599 1738 -811 C 1738 -811 1738 -811 1738 -665 C 1738 -616.264 1698.41 -572.119 1669.56 -546.415"/>
+<polygon fill="black" stroke="black" points="1671.6,-543.555 1661.75,-539.665 1667.03,-548.851 1671.6,-543.555"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Scruffin Farm (415512) -->
+<g class="edge" id="edge72"><title>Teladianium (M 132-156-180)-&gt;Scruffin Farm (415512)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 994.845 -1295.61 C 1000.4 -1268.94 1010 -1216.27 1010 -1171 C 1010 -1171 1010 -1171 1010 -1025 C 1010 -926.908 1064 -909.092 1064 -811 C 1064 -811 1064 -811 1064 -665 C 1064 -607.452 1005.03 -566.113 961.291 -543.364"/>
+<polygon fill="black" stroke="black" points="962.72,-540.165 952.215,-538.793 959.571,-546.417 962.72,-540.165"/>
+</g>
+<!-- Teladianium (M 132&#45;156&#45;180)&#45;&gt;Dream farm (363572) -->
+<g class="edge" id="edge78"><title>Teladianium (M 132-156-180)-&gt;Dream farm (363572)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 982.585 -1295.85 C 964.223 -1258.43 920.471 -1169.25 898.723 -1124.93"/>
+<polygon fill="black" stroke="black" points="901.857,-1123.37 894.309,-1115.94 895.572,-1126.45 901.857,-1123.37"/>
+</g>
+<!-- Soja Beans (S 14&#45;28&#45;42)&#45;&gt;Soyery (1077736) -->
+<g class="edge" id="edge102"><title>Soja Beans (S 14-28-42)-&gt;Soyery (1077736)</title>
+<path fill="none" stroke="black" d="M 467.753 -1007.7 C 467.643 -999.983 467.51 -990.712 467.387 -982.112"/>
+<polygon fill="black" stroke="black" points="470.887,-982.053 467.244,-972.104 463.888,-982.153 470.887,-982.053"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Soyfarm (597300) -->
+<g class="edge" id="edge30"><title>Nostrop Oil (M 67-72-77)-&gt;Soyfarm (597300)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 535.603 -608.508 C 408.215 -635.348 142 -696.307 142 -737 C 142 -955 142 -955 142 -955 C 142 -1058.8 281.748 -1087.61 379.085 -1095.1"/>
+<polygon fill="black" stroke="black" points="379.03,-1098.6 389.251,-1095.81 379.522,-1091.62 379.03,-1098.6"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Chelt Space Aquarium (337604) -->
+<g class="edge" id="edge36"><title>Nostrop Oil (M 67-72-77)-&gt;Chelt Space Aquarium (337604)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 529.281 -580.242 C 462.301 -568.491 362.767 -551.029 291.259 -538.484"/>
+<polygon fill="black" stroke="black" points="291.815,-535.028 281.361,-536.748 290.606,-541.923 291.815,-535.028"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Snail Ranch (441484) -->
+<g class="edge" id="edge62"><title>Nostrop Oil (M 67-72-77)-&gt;Snail Ranch (441484)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 680.32 -581.043 C 694.5 -579.15 709.173 -577.369 723 -576 C 1017.31 -546.869 1366.47 -532.13 1536.54 -526.219"/>
+<polygon fill="black" stroke="black" points="1536.86,-529.71 1546.73,-525.868 1536.62,-522.714 1536.86,-529.71"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Scruffin Farm (415512) -->
+<g class="edge" id="edge68"><title>Nostrop Oil (M 67-72-77)-&gt;Scruffin Farm (415512)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 664.588 -579.003 C 716.484 -567.397 790.243 -550.901 844.27 -538.818"/>
+<polygon fill="black" stroke="black" points="845.123,-542.214 854.118,-536.616 843.595,-535.383 845.123,-542.214"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Soyery (1077736) -->
+<g class="edge" id="edge104"><title>Nostrop Oil (M 67-72-77)-&gt;Soyery (1077736)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 555.077 -610.445 C 535.524 -618.894 513.942 -631.146 499 -648 C 471.014 -679.568 466 -694.813 466 -737 C 466 -811 466 -811 466 -811 C 466 -851.005 466.402 -897.348 466.696 -925.921"/>
+<polygon fill="black" stroke="black" points="463.196,-925.989 466.802,-935.951 470.196,-925.914 463.196,-925.989"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Rastar Refinery (1116692) -->
+<g class="edge" id="edge112"><title>Nostrop Oil (M 67-72-77)-&gt;Rastar Refinery (1116692)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 684.638 -581.762 C 710.563 -574.131 736.856 -561.358 754 -540 C 784.656 -501.809 782.416 -441.156 777.837 -406.218"/>
+<polygon fill="black" stroke="black" points="781.289,-405.64 776.374,-396.255 774.363,-406.657 781.289,-405.64"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Massom Mill (999828) -->
+<g class="edge" id="edge154"><title>Nostrop Oil (M 67-72-77)-&gt;Massom Mill (999828)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 571.885 -576.498 C 538.119 -556.073 485.192 -517.803 463 -468 C 456.488 -453.385 455.781 -446.279 463 -432 C 469.481 -419.182 480.685 -408.705 492.35 -400.552"/>
+<polygon fill="black" stroke="black" points="494.381,-403.406 500.864,-395.026 490.571,-397.535 494.381,-403.406"/>
+</g>
+<!-- Nostrop Oil (M 67&#45;72&#45;77)&#45;&gt;Crystal Fab (2973516) -->
+<g class="edge" id="edge178"><title>Nostrop Oil (M 67-72-77)-&gt;Crystal Fab (2973516)</title>
+<path fill="none" stroke="black" d="M 545.834 -578.381 C 487.917 -559.516 406 -520.542 406 -451 C 406 -451 406 -451 406 -233 C 406 -165.502 870.063 -117.181 1077.19 -98.9751"/>
+<polygon fill="black" stroke="black" points="1077.5,-102.462 1087.16,-98.1049 1076.89,-95.4881 1077.5,-102.462"/>
+</g>
+<!-- Chelts Meat (S 50&#45;104&#45;158)&#45;&gt;Rastar Refinery (1116692) -->
+<g class="edge" id="edge110"><title>Chelts Meat (S 50-104-158)-&gt;Rastar Refinery (1116692)</title>
+<path fill="none" stroke="black" d="M 633.525 -432.941 C 659.947 -422.722 694.338 -409.422 722.358 -398.585"/>
+<polygon fill="black" stroke="black" points="723.916,-401.735 731.98,-394.864 721.391,-395.207 723.916,-401.735"/>
+</g>
+<!-- Soja Husk (S 335&#45;364&#45;393)&#45;&gt;Chelt Space Aquarium (337604) -->
+<g class="edge" id="edge38"><title>Soja Husk (S 335-364-393)-&gt;Chelt Space Aquarium (337604)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 274.614 -864.55 C 237.945 -841.602 180 -796.276 180 -739 C 180 -739 180 -739 180 -665 C 180 -624.696 189.14 -578.776 195.897 -550.337"/>
+<polygon fill="black" stroke="black" points="199.365,-550.888 198.346,-540.342 192.567,-549.222 199.365,-550.888"/>
+</g>
+<!-- Soja Husk (S 335&#45;364&#45;393)&#45;&gt;BoFu Chemical Lab (960872) -->
+<g class="edge" id="edge98"><title>Soja Husk (S 335-364-393)-&gt;BoFu Chemical Lab (960872)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 408.491 -873.785 C 551.828 -863.827 817.475 -845.151 1044 -828 C 1075.04 -825.65 1108.62 -823.013 1139.74 -820.531"/>
+<polygon fill="black" stroke="black" points="1140.06,-824.017 1149.75,-819.731 1139.5,-817.039 1140.06,-824.017"/>
+</g>
+<!-- Soja Husk (S 335&#45;364&#45;393)&#45;&gt;Stott Mixery (1103708) -->
+<g class="edge" id="edge140"><title>Soja Husk (S 335-364-393)-&gt;Stott Mixery (1103708)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 395.799 -870.784 C 514.247 -857.602 719.252 -834.788 838.838 -821.479"/>
+<polygon fill="black" stroke="black" points="839.521,-824.925 849.073,-820.34 838.747,-817.968 839.521,-824.925"/>
+</g>
+<!-- Soja Husk (S 335&#45;364&#45;393)&#45;&gt;Massom Mill (999828) -->
+<g class="edge" id="edge156"><title>Soja Husk (S 335-364-393)-&gt;Massom Mill (999828)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 232.485 -867.707 C 165.62 -850.658 76 -813.845 76 -739 C 76 -739 76 -739 76 -665 C 76 -592.948 12.9656 -561.03 57 -504 C 103.797 -443.391 317.817 -406.523 443.049 -389.76"/>
+<polygon fill="black" stroke="black" points="443.567,-393.222 453.022,-388.443 442.65,-386.283 443.567,-393.222"/>
+</g>
+<!-- Soja Husk (S 335&#45;364&#45;393)&#45;&gt;Crystal Fab (2973516) -->
+<g class="edge" id="edge174"><title>Soja Husk (S 335-364-393)-&gt;Crystal Fab (2973516)</title>
+<path fill="none" stroke="black" d="M 203.418 -872.644 C 165.517 -865.418 123.904 -852.169 92 -828 C 26.3074 -778.235 0 -749.414 0 -667 C 0 -667 0 -667 0 -233 C 0 -126.04 777.314 -99.1332 1067.48 -92.8154"/>
+<polygon fill="black" stroke="black" points="1067.67,-96.3122 1077.59,-92.5992 1067.52,-89.3138 1067.67,-96.3122"/>
+</g>
+<!-- Spaceflies (S 2316&#45;3088&#45;3860) -->
+<g class="node" id="node38"><title>Spaceflies (S 2316-3088-3860)</title>
+<ellipse fill="crimson" stroke="black" cx="340" cy="-594" rx="131.573" ry="18"/>
+<text font-family="Times,serif" font-size="14px" text-anchor="middle" x="340" y="-589.8">Spaceflies (S 2316-3088-3860)</text>
+</g>
+<!-- Spaceflies (S 2316&#45;3088&#45;3860)&#45;&gt;Chelt Space Aquarium (337604) -->
+<g class="edge" id="edge40"><title>Spaceflies (S 2316-3088-3860)-&gt;Chelt Space Aquarium (337604)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 307.533 -576.411 C 288.732 -566.805 264.868 -554.611 244.689 -544.301"/>
+<polygon fill="black" stroke="black" points="246.206,-541.146 235.709,-539.713 243.021,-547.379 246.206,-541.146"/>
+</g>
+<!-- Spaceflies (S 2316&#45;3088&#45;3860)&#45;&gt;Scruffin Farm (415512) -->
+<g class="edge" id="edge70"><title>Spaceflies (S 2316-3088-3860)-&gt;Scruffin Farm (415512)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 434.627 -581.48 C 542.1 -568.397 716.309 -547.188 822.775 -534.227"/>
+<polygon fill="black" stroke="black" points="823.359,-537.682 832.862,-532.999 822.513,-530.734 823.359,-537.682"/>
+</g>
+<!-- Spaceflies (S 2316&#45;3088&#45;3860)&#45;&gt;Rastar Refinery (1116692) -->
+<g class="edge" id="edge114"><title>Spaceflies (S 2316-3088-3860)-&gt;Rastar Refinery (1116692)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 432.759 -581.212 C 515.597 -566.646 636.415 -535.005 720 -468 C 740.286 -451.738 754.563 -425.458 763.148 -405.663"/>
+<polygon fill="black" stroke="black" points="766.446,-406.844 767.013,-396.264 759.973,-404.181 766.446,-406.844"/>
+</g>
+<!-- Spaceflies (S 2316&#45;3088&#45;3860)&#45;&gt;Massom Mill (999828) -->
+<g class="edge" id="edge158"><title>Spaceflies (S 2316-3088-3860)-&gt;Massom Mill (999828)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 349.207 -575.913 C 366.625 -544.676 406.903 -477.399 454 -432 C 466.307 -420.137 481.622 -409.333 495.612 -400.62"/>
+<polygon fill="black" stroke="black" points="497.821,-403.375 504.569,-395.207 494.2,-397.384 497.821,-403.375"/>
+</g>
+<!-- Sunrise Flowers (S 5&#45;20&#45;35)&#45;&gt;Sun oil refinery (1064752) -->
+<g class="edge" id="edge118"><title>Sunrise Flowers (S 5-20-35)-&gt;Sun oil refinery (1064752)</title>
+<path fill="none" stroke="black" d="M 580.487 -792.745 C 566.135 -784.028 550.984 -771.791 543 -756 C 535.781 -741.721 535.471 -734.118 543 -720 C 550.072 -706.739 562.099 -696.208 574.664 -688.143"/>
+<polygon fill="black" stroke="black" points="576.59,-691.07 583.395,-682.95 573.011,-685.054 576.59,-691.07"/>
+</g>
+<!-- Delexian Wheat (S 10&#45;32&#45;54)&#45;&gt;Plankton Farm (415512) -->
+<g class="edge" id="edge56"><title>Delexian Wheat (S 10-32-54)-&gt;Plankton Farm (415512)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1266.41 -1008.23 C 1251.58 -998.882 1232.94 -987.123 1216.94 -977.036"/>
+<polygon fill="black" stroke="black" points="1218.7,-974.004 1208.37,-971.63 1214.96,-979.925 1218.7,-974.004"/>
+</g>
+<!-- Delexian Wheat (S 10&#45;32&#45;54)&#45;&gt;Cahoona Bakery (1038784) -->
+<g class="edge" id="edge88"><title>Delexian Wheat (S 10-32-54)-&gt;Cahoona Bakery (1038784)</title>
+<path fill="none" stroke="black" d="M 1301.07 -1007.94 C 1319.49 -969.155 1363.74 -876.703 1373 -864 C 1386.52 -845.462 1401.07 -849.137 1410 -828 C 1462.77 -703.025 1398 -658.66 1398 -523 C 1398 -523 1398 -523 1398 -377 C 1398 -306.712 1318.2 -269.703 1254.08 -251.31"/>
+<polygon fill="black" stroke="black" points="1254.91,-247.909 1244.34,-248.623 1253.04,-254.657 1254.91,-247.909"/>
+</g>
+<!-- Delexian Wheat (S 10&#45;32&#45;54)&#45;&gt;Rimes Fact (921920) -->
+<g class="edge" id="edge126"><title>Delexian Wheat (S 10-32-54)-&gt;Rimes Fact (921920)</title>
+<path fill="none" stroke="black" d="M 1338.16 -1009.12 C 1368.4 -998.478 1408.3 -984.442 1439.89 -973.33"/>
+<polygon fill="black" stroke="black" points="1441.13,-976.603 1449.41,-969.983 1438.81,-969.999 1441.13,-976.603"/>
+</g>
+<!-- Delexian Wheat (S 10&#45;32&#45;54)&#45;&gt;Space Fuel Distillery (1960700) -->
+<g class="edge" id="edge130"><title>Delexian Wheat (S 10-32-54)-&gt;Space Fuel Distillery (1960700)</title>
+<path fill="none" stroke="black" d="M 1294.22 -1007.83 C 1297.22 -976.457 1307.28 -908.969 1340 -864 C 1356.76 -840.976 1379.67 -853.164 1393 -828 C 1400.49 -813.861 1399.21 -806.746 1393 -792 C 1374.38 -747.78 1331.62 -711.412 1300.64 -689.521"/>
+<polygon fill="black" stroke="black" points="1302.46,-686.527 1292.24,-683.736 1298.49,-692.292 1302.46,-686.527"/>
+</g>
+<!-- Delexian Wheat (S 10&#45;32&#45;54)&#45;&gt;Stott Mixery (1103708) -->
+<g class="edge" id="edge138"><title>Delexian Wheat (S 10-32-54)-&gt;Stott Mixery (1103708)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1191.42 -1015.38 C 1150.46 -1008.01 1104.2 -994.986 1067 -972 C 1011.77 -937.868 968.396 -873.032 947.208 -836.923"/>
+<polygon fill="black" stroke="black" points="950.083,-834.901 942.067,-827.973 944.013,-838.388 950.083,-834.901"/>
+</g>
+<!-- Plankton (S 10&#45;20&#45;30)&#45;&gt;Cattle Ranch (363572) -->
+<g class="edge" id="edge16"><title>Plankton (S 10-20-30)-&gt;Cattle Ranch (363572)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1159.54 -864.679 C 1145.81 -855.609 1130.45 -843.096 1121 -828 C 1099.53 -793.721 1102 -779.447 1102 -739 C 1102 -739 1102 -739 1102 -521 C 1102 -473.599 1138.05 -429.02 1164.26 -402.868"/>
+<polygon fill="black" stroke="black" points="1166.94,-405.146 1171.69,-395.677 1162.07,-400.116 1166.94,-405.146"/>
+</g>
+<!-- Plankton (S 10&#45;20&#45;30)&#45;&gt;BoFu Chemical Lab (960872) -->
+<g class="edge" id="edge96"><title>Plankton (S 10-20-30)-&gt;BoFu Chemical Lab (960872)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1205.46 -864.055 C 1213.77 -855.498 1224.01 -844.959 1233.17 -835.535"/>
+<polygon fill="black" stroke="black" points="1235.76,-837.887 1240.22,-828.275 1230.74,-833.009 1235.76,-837.887"/>
+</g>
+<!-- Plankton (S 10&#45;20&#45;30)&#45;&gt;Stott Mixery (1103708) -->
+<g class="edge" id="edge136"><title>Plankton (S 10-20-30)-&gt;Stott Mixery (1103708)</title>
+<path fill="none" stroke="black" d="M 1136.89 -866.75 C 1096.06 -855.587 1039.12 -840.017 995.785 -828.168"/>
+<polygon fill="black" stroke="black" points="996.489,-824.732 985.92,-825.47 994.643,-831.484 996.489,-824.732"/>
+</g>
+<!-- Maja Snails (S 91&#45;156&#45;221)&#45;&gt;Space Jewellery (1181616) -->
+<g class="edge" id="edge144"><title>Maja Snails (S 91-156-221)-&gt;Space Jewellery (1181616)</title>
+<path fill="none" stroke="black" d="M 1630.68 -431.849 C 1634.32 -394.832 1642.92 -307.181 1647.31 -262.386"/>
+<polygon fill="black" stroke="black" points="1650.82,-262.526 1648.31,-252.232 1643.85,-261.843 1650.82,-262.526"/>
+</g>
+<!-- Scruffin Fruits (S 7&#45;20&#45;33)&#45;&gt;Cattle Ranch (363572) -->
+<g class="edge" id="edge18"><title>Scruffin Fruits (S 7-20-33)-&gt;Cattle Ranch (363572)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 977.601 -434.326 C 1021.11 -423.046 1081.24 -407.456 1126.59 -395.7"/>
+<polygon fill="black" stroke="black" points="1127.52,-399.074 1136.32,-393.177 1125.76,-392.298 1127.52,-399.074"/>
+</g>
+<!-- Scruffin Fruits (S 7&#45;20&#45;33)&#45;&gt;Massom Mill (999828) -->
+<g class="edge" id="edge152"><title>Scruffin Fruits (S 7-20-33)-&gt;Massom Mill (999828)</title>
+<path fill="none" stroke="black" d="M 848.849 -435.916 C 781.672 -423.733 681.809 -405.623 612.855 -393.119"/>
+<polygon fill="black" stroke="black" points="613.378,-389.657 602.914,-391.316 612.129,-396.544 613.378,-389.657"/>
+</g>
+<!-- Swamp Plant (S 36&#45;156&#45;276)&#45;&gt;Sun oil refinery (1064752) -->
+<g class="edge" id="edge122"><title>Swamp Plant (S 36-156-276)-&gt;Sun oil refinery (1064752)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 662.928 -720.055 C 656.523 -711.753 648.679 -701.584 641.577 -692.378"/>
+<polygon fill="black" stroke="black" points="644.206,-690.055 635.327,-684.275 638.663,-694.331 644.206,-690.055"/>
+</g>
+<!-- Swamp Plant (S 36&#45;156&#45;276)&#45;&gt;Bliss Place (1584144) -->
+<g class="edge" id="edge162"><title>Swamp Plant (S 36-156-276)-&gt;Bliss Place (1584144)</title>
+<path fill="none" stroke="black" d="M 718.887 -721.116 C 747.191 -710.633 784.405 -696.85 814.192 -685.818"/>
+<polygon fill="black" stroke="black" points="815.42,-689.095 823.582,-682.34 812.988,-682.531 815.42,-689.095"/>
+</g>
+<!-- Meatsteak Cahoonas (M 34&#45;72&#45;110)&#45;&gt;Crystal Fab (2973516) -->
+<g class="edge" id="edge170"><title>Meatsteak Cahoonas (M 34-72-110)-&gt;Crystal Fab (2973516)</title>
+<path fill="none" stroke="black" d="M 1175 -143.697 C 1175 -135.983 1175 -126.712 1175 -118.112"/>
+<polygon fill="black" stroke="black" points="1178.5,-118.104 1175,-108.104 1171.5,-118.104 1178.5,-118.104"/>
+</g>
+<!-- Stott Spices (S 47&#45;72&#45;97)&#45;&gt;Cahoona Bakery (1038784) -->
+<g class="edge" id="edge90"><title>Stott Spices (S 47-72-97)-&gt;Cahoona Bakery (1038784)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 942.284 -720.026 C 950.962 -709.952 961.712 -696.702 970 -684 C 989.661 -653.869 993.895 -645.506 1007 -612 C 1019.1 -581.07 1018.74 -572.168 1027 -540 C 1035.18 -508.154 1036.74 -500.069 1044 -468 C 1062.07 -388.164 1034.72 -354.106 1083 -288 C 1092.99 -274.316 1107.67 -263.626 1122.38 -255.544"/>
+<polygon fill="black" stroke="black" points="1124.22,-258.536 1131.5,-250.845 1121.01,-252.313 1124.22,-258.536"/>
+</g>
+<!-- Stott Spices (S 47&#45;72&#45;97)&#45;&gt;Soyery (1077736) -->
+<g class="edge" id="edge106"><title>Stott Spices (S 47-72-97)-&gt;Soyery (1077736)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 894.409 -755.201 C 857.916 -773.259 796.943 -803.187 744 -828 C 662.203 -866.337 565.912 -909.309 511.105 -933.566"/>
+<polygon fill="black" stroke="black" points="509.424,-930.482 501.693,-937.728 512.255,-936.884 509.424,-930.482"/>
+</g>
+<!-- Stott Spices (S 47&#45;72&#45;97)&#45;&gt;Sun oil refinery (1064752) -->
+<g class="edge" id="edge120"><title>Stott Spices (S 47-72-97)-&gt;Sun oil refinery (1064752)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 866.012 -723.003 C 816.282 -711.589 745.95 -695.448 693.561 -683.424"/>
+<polygon fill="black" stroke="black" points="694.196,-679.979 683.666,-681.153 692.63,-686.801 694.196,-679.979"/>
+</g>
+<!-- Stott Spices (S 47&#45;72&#45;97)&#45;&gt;Space Fuel Distillery (1960700) -->
+<g class="edge" id="edge132"><title>Stott Spices (S 47-72-97)-&gt;Space Fuel Distillery (1960700)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 992.17 -723.503 C 1047.21 -712.105 1126.23 -695.739 1185.08 -683.552"/>
+<polygon fill="black" stroke="black" points="1186,-686.935 1195.08,-681.48 1184.58,-680.081 1186,-686.935"/>
+</g>
+<!-- Stott Spices (S 47&#45;72&#45;97)&#45;&gt;Bliss Place (1584144) -->
+<g class="edge" id="edge164"><title>Stott Spices (S 47-72-97)-&gt;Bliss Place (1584144)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 911.992 -720.055 C 904.376 -711.457 894.987 -700.857 886.609 -691.397"/>
+<polygon fill="black" stroke="black" points="889.121,-688.954 879.87,-683.789 883.881,-693.596 889.121,-688.954"/>
+</g>
+<!-- BoFu (M 190&#45;292&#45;394)&#45;&gt;Crystal Fab (2973516) -->
+<g class="edge" id="edge172"><title>BoFu (M 190-292-394)-&gt;Crystal Fab (2973516)</title>
+<path fill="none" stroke="black" d="M 1402.93 -215.803 C 1389.25 -195.839 1364.16 -163.204 1335 -144 C 1308.99 -126.868 1276.94 -114.82 1248.38 -106.589"/>
+<polygon fill="black" stroke="black" points="1249.01,-103.132 1238.44,-103.835 1247.14,-109.878 1249.01,-103.132"/>
+</g>
+<!-- Rastar Oil (M 252&#45;484&#45;716)&#45;&gt;Space Jewellery (1181616) -->
+<g class="edge" id="edge148"><title>Rastar Oil (M 252-484-716)-&gt;Space Jewellery (1181616)</title>
+<path fill="none" stroke="black" stroke-dasharray="1px, 5px" d="M 1011.35 -294.959 C 1034.77 -292.585 1059.78 -290.127 1083 -288 C 1279.27 -270.019 1329.06 -273.288 1525 -252 C 1535.67 -250.841 1546.83 -249.503 1557.91 -248.096"/>
+<polygon fill="black" stroke="black" points="1558.58,-251.54 1568.05,-246.789 1557.68,-244.597 1558.58,-251.54"/>
+</g>
+<!-- Rastar Oil (M 252&#45;484&#45;716)&#45;&gt;Crystal Fab (2973516) -->
+<g class="edge" id="edge176"><title>Rastar Oil (M 252-484-716)-&gt;Crystal Fab (2973516)</title>
+<path fill="none" stroke="black" d="M 921.92 -287.944 C 934.132 -255.227 965.22 -183.412 1015 -144 C 1038.29 -125.558 1068.28 -113.408 1095.98 -105.46"/>
+<polygon fill="black" stroke="black" points="1096.94,-108.825 1105.67,-102.82 1095.1,-102.072 1096.94,-108.825"/>
+</g>
+</g>
+</svg>
